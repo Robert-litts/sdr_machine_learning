@@ -1,0 +1,2 @@
+openai-whisper==2024.7.0
+ffmpeg-python==0.2.0
